@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 hello from ui
